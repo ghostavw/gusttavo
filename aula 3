@@ -1,0 +1,25 @@
+<html>
+<head>  
+
+    <title>cadastro pessoal</title>
+
+  <!-- nao vai ser renderizado , nao vai ser exposto -->
+</head> 
+<body>
+    <!-- vai ser renderizado , vai ser exposto-->
+
+ <h1>Cadastro de Pessoas
+     </h1> 
+     <label>Nome: </label>
+     <input type="text">
+<br>
+     <label>Cor favorita </label>
+<input type="color">
+
+
+</body> 
+
+
+
+
+</html>
