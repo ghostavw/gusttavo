@@ -1,0 +1,33 @@
+<html>
+<head>
+      <title>aula 01/03</title>
+</head>
+
+<body>
+
+<detalis>
+      <summary> titulo do item</summary>
+       <p>Lorem ipsum dolor sit amet, consectetur</p>
+
+</detalis>
+
+<fieldset>
+<legend> Titulo do item</legend>
+</fieldset>
+
+<progress value="50" max="100"></progress>
+
+<table border="1">
+<tr> 
+    <td>Linha 1 , coluna 1</td>
+    <td>Linha 1 , coluna 2</td>
+</tr>
+<tr>
+<td> Linha 1 , coluna 2</td>
+ <td>Linha 1 , coluna 2</td>
+</tr>
+</table>
+
+</body>
+
+</html>
