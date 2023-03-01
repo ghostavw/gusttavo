@@ -1,0 +1,21 @@
+
+
+
+
+
+
+<html>
+<head>
+
+
+
+</head>
+<body>
+<h1>Lollapalooza 2023: Blink-182 cancela show; Twenty One Pilots entra no lugar da banda no festival</h1>
+<p>Banda era atração principal do sábado (25), único dia que chegou a ter os ingressos esgotados. Baterista Travis Barker passou por uma cirurgia no dedo nesta terça (28).</p>
+
+<input type="image"   src="file:///C:/Users/SUDOTEC17/Desktop/gusttavo/blink182.webp">
+
+
+</body>
+</html>
