@@ -1,0 +1,54 @@
+  <html>
+   <body>
+  
+  
+  
+  
+  <fieldset>
+ 
+     <legend> Opinião quanto a ultilização</legend><img border="0" width="350" height="100"
+     src="66507f55-9512-4b8a-ab3c-dc38acd498f0 (1).jpg">
+
+<br> </br>
+  Na frase: "Eu sou bonito" o sujeito é
+  <br> </br>
+  <input type="radio" ><label>  Brad pitt </label>
+   <br> </br>
+ <input type="radio" ><label> João da padaria</label>
+  <br> </br>
+  <input type="radio"> <label> Voce mesmo </label>
+  <br> </br>
+  <input type="radio"> <label> Meus pais</label>
+  <br> </br>
+  <input type="radio"> <label> Eu</label>
+
+
+  <br> </br>
+      Complete a frase "Filho de peixe, peixinho ___"
+       <br> </br>
+
+       <input type="checkbox" ><label> é</label>
+<br>   </br>
+     <input type="checkbox" ><label>tem</label>
+    <br>  </br>
+     <input type="checkbox"> <label> verde </label>
+     <br> </br>
+     <input type="checkbox"> <label> bonito </label>
+     <br> </br>
+     <input type="checkbox"> <label> maria</label>
+     </fieldset>
+     <br> </br>
+      <fieldset><legend> Dê sua nota para sua professora:</legend> 
+      Sua professora explica bem a materia?
+      <progress value="50" max="90"></progress>
+      </fieldset>
+      <br> </br>
+      <fieldset> <legend> Opinioes</legend>
+        Digite a sua opiniao sobre a disciplina
+<br> </br>
+></textarea>      <textarea
+      <br></br>
+      <input type="button"  value="gravar resposta">
+      </fieldset>
+</body>
+</html>
