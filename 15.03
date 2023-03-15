@@ -1,0 +1,29 @@
+<html> 
+<head></head>
+<body>
+<!--DIV = container de conteudo -->
+   <div style="background-color: yellow;">
+<p><h1> this is a heading in a div element</h1></p>
+</div>
+<!--DIV = container de conteudo-->
+<div style="background-color: red;">
+<p> <h2> this is heading in a div element</h2></p></div>
+<!--DIV = container de conteudo -->
+<div style="background-color: blue;">
+<p> <h3> this is heading in a div element</h3></p>
+</div>
+<!--DIV = container de conteudo-->
+<div style="background-color: darkgreen;" >
+<p><h4> this is heading in a div  element</h4></p></div>
+<!-- DIV = container de conteudo-->
+<div style="background-color: blueviolet;">
+<p><h5> this is heading in a div element</h5></p>
+</div>
+<!--DIV = container de conteudo-->
+<div style="background-color: lightpink;">
+<p><h6> this is heading in a div element</h6></p>
+</div>
+
+</body>
+
+</html>
