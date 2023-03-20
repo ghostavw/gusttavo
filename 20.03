@@ -1,0 +1,47 @@
+<html>
+<head></head>
+<body>
+<!--border - dotted , dashed , solid , double , groove , ridge , inset , outset -->
+<div style="background-color: #fafafa;
+width:100%;
+float:right;
+border: ridge">
+  <p>solid border</p>
+
+</div>
+
+<!--border - dotted , dashed , solid , double , groove , ridge , inset , outset -->
+<div style="background-color: rgb(255, 254, 253);
+width:100%;
+float:right;
+border: double">
+  <p>solid border</p>
+
+</div>
+
+<!--border - dotted , dashed , solid , double , groove , ridge , inset , outset -->
+<div style="background-color: #ffffff;
+width:100%;
+float:right;
+border: dashed">
+  <p>solid border </p>
+
+</div>
+<!--border - dotted , dashed , solid , double , groove , ridge , inset , outset -->
+<div style="background-color: #fffdf9;
+width:100%;
+float:right;
+border: groove">
+  <p>solid border</p>
+
+</div>
+
+</body>
+
+
+
+
+
+
+
+</html>
