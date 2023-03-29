@@ -1,0 +1,26 @@
+<html>
+<head>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+<div id="id1">
+    <div id="cabecalho">
+        <h1>Bem Vindos </h1>
+            <img id="imagem" src="">
+            
+        </div>
+    <div id="Menu"><ul>
+        <li>home</li>
+        <li>noticias</li>
+        <l1>fotos</l1>
+       </ul> </div>
+    <div id="Area">area </div>
+
+</div>
+
+
+
+</body>
+
+
+</html>
