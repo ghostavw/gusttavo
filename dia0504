@@ -1,0 +1,56 @@
+Ate mesmo as coisas mais simples, podem ser descritas
+
+
+
+
+1 - pegar a bala
+2 - retirar o papel
+3 - comer a bala
+4 - jogar o papel no lixo
+
+1) crie uma sequencia logica para tomar banho
+ 
+ - pegar a toalha
+ - pegar roupa limpa
+ - ligar o chuveiro
+ - passar o sabonete no corpo
+ - passar shampoo no cabelo
+ - 
+
+2) faca um algoritimo para sacar dinheiro
+ 
+ -ir ao caixa
+ -insere o cartao
+ -pede a biometria
+ -seleciona minha opcao de saque
+ -inserir o valor do saque
+ -sistema tem que conferir se eu tenho esse saldo
+ -SE(if)eu tenho o dinheiro
+        - caixa vai disponibilizar
+- SE(if)nao eu tenho dinheiro
+        - caixa nega a operacao
+        - retorna inserir o valor
+- encerro a sessao
+
+3) sequencia de mudar uma lampada
+
+-pegar uma cadeira ou escada
+-tirar a lampada queimada ou quebrada com delicadeza
+-pedir para me entregarem a lampada nova
+-colocar e depois ligarela para ve se esta funcionando
+
+4) Identifique os dados de entrada , processamento e saída no algoritmo abaixo
+
+entrada: Receba código da peça
+
+processamento:  Calcule o valor total das peças (Quantidade * Valor da peça)
+
+saída : Receba Quantidade de peças
+
+• Receba código da peça
+• Receba valor da peça
+• Receba Quantidade de peças
+• Mostre o código da peça e seu valor total
+• Calcule o valor total das peças (Quantidade * Valor da peça)
+
+        
